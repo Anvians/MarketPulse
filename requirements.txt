@@ -1,0 +1,26 @@
+# Python 3.11+
+pandas>=2.2
+numpy>=1.26
+sqlalchemy>=2.0
+psycopg[binary]>=3.1
+python-dotenv>=1.0
+
+# Analytics / ML (used from Milestone 2 onward)
+scipy>=1.11
+statsmodels>=0.14
+scikit-learn>=1.4
+
+# Application (Milestone 3 onward)
+streamlit>=1.50
+plotly>=6.1
+
+# Reports (Milestone 4 onward)
+openpyxl>=3.1
+reportlab>=4.0
+
+# Testing
+pytest>=8.0
+
+# Optional (Milestone 5): uncomment if you want them
+# prophet
+# xgboost

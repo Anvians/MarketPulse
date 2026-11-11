@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="40" viewBox="0 0 220 40" role="img" aria-label="MarketPulse">
+  <rect x="2" y="6" width="28" height="28" rx="7" fill="#2a78d6"/>
+  <polyline points="6,21 12,21 15,12 19,29 22,21 26,21" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="40" y="27" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="20" font-weight="700" fill="#ffffff" letter-spacing="0.3">MarketPulse</text>
+</svg>

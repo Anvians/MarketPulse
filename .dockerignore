@@ -1,0 +1,18 @@
+# Secrets and local environment
+.env
+.venv/
+venv/
+
+# Large / licensed data: mounted at run time, never baked into the image
+data/raw/*
+data/processed/*
+
+# Caches and tooling
+__pycache__/
+*.pyc
+.pytest_cache/
+.git/
+.github/
+.vscode/
+.idea/
+*.zip
